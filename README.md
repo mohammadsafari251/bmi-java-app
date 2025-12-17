@@ -1,4 +1,4 @@
 # bmi java app
 
 تصویر پروژه
-![تصویر](image.png)
+![تصویر](image.jpg)
